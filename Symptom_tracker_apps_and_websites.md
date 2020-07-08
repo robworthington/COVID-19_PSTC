@@ -24,6 +24,7 @@ layout: page
   - General: https://www.opendemic.org/
   - General; https://apps.apple.com/us/app/howwefeel/id1503942026?ls=1
   - Iceland; https://sidekickhealth.com/sidekick-provides-icelands-covid-19-response-team-with-remote-care-platform/
+  - Malawi: https://docs.google.com/document/d/1mOqcE8SMlC7xemvySgBmbY1XWIAHDSjgCj6aOyxAKPE/edit#
 
 
 - Covid-symptom-tracker (Kings College - UK): https://apps.apple.com/gb/app/covid-symptom-tracker/id1503529611
